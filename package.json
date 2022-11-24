@@ -1,0 +1,25 @@
+{
+  "name": "ytbegir",
+  "version": "1.0.0",
+  "description": "✨ Youtube Downloader Telegram bot - Created with JS",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezasmind/ytbegir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezasmind/ytbegir/issues"
+  },
+  "homepage": "https://github.com/rezasmind/ytbegir#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "youtube-dl-exec": "^2.1.10",
+    "ytdl-core": "^4.11.2"
+  }
+}
